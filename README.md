@@ -10,7 +10,7 @@
 
 ## 🚀 Live Preview
 
-🔗 [Visit OtakuSpace Now](https://your-live-site-link.com)
+🔗 [Visit OtakuSpace Now](https://porleiviral.web.app/)
 
 ---
 
